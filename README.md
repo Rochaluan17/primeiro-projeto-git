@@ -4,5 +4,5 @@
 
 -**Faculdade:** Fatec Orgari de Castro Pacheco (itapira)
 -**Curso:** Desenvolvimento de Softeare Multiplataforma 
--**Aluno:**[@rochaluan17](https://github.com/Rochaluan17/primeiro-projeto-git.git)
+-**Aluno:** Luan Rocha - perfil do github [@rochaluan17] (https://github.com/Rochaluan17/primeiro-projeto-git.git)
 
